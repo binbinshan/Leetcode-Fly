@@ -1,4 +1,12 @@
 
+### 2021-02-28
+#### 链表
+
+- [x] [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
+* [source code（单向链表）](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-02-28/DesignLinkedList1.java)
+* [source code(双向链表)](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-02-28/DesignLinkedList2.java)
+
+
 ### 2021-02-27
 #### 二维数组
 
