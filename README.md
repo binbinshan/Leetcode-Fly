@@ -1,8 +1,13 @@
+### 2021-03-10
+#### 队列
+
+- [x] [346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-10/346.MovingAveragefromDataStream.java)
 
 
 
 
-### 2021-03-07
+### 2021-03-08
 #### 队列
 
 - [x] [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
