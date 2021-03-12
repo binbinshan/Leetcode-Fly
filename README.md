@@ -1,6 +1,14 @@
 
+### 2021-03-12
+#### 栈
+
+- [x] [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-12/739.DailyTemperatures.java)
+
+
+
 ### 2021-03-11
-#### 队列
+#### 栈
 
 - [x] [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 * [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-11/155.MinStack.java)
