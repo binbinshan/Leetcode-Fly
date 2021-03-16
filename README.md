@@ -1,4 +1,14 @@
 
+
+### 2021-03-16
+#### 冒泡排序
+- [x] [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-15/offer40.minK.java)
+- [x] [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-15/283.MoveZeroes.java)
+
+
+
 ### 2021-03-15
 #### 递归 数组
 - [x] [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
