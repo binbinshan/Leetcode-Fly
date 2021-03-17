@@ -1,11 +1,23 @@
 
 
+
+
+### 2021-03-17
+#### 快速排序
+- [x] [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-17/10.01.SortedMergeLCCI.java)
+- [x] [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/solution/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-17/912.SortanArray.java)
+
+
+
+
 ### 2021-03-16
 #### 冒泡排序
 - [x] [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
-* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-15/offer40.minK.java)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-16/offer40.minK.java)
 - [x] [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
-* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-15/283.MoveZeroes.java)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-16/283.MoveZeroes.java)
 
 
 
