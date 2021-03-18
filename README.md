@@ -1,9 +1,15 @@
 
 
+### 2021-03-18
+#### 快速排序
+- [x] [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/solution/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-18/912.SortanArray.java)
+
+
 
 
 ### 2021-03-17
-#### 快速排序
+#### 选择排序
 - [x] [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)
 * [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-17/10.01.SortedMergeLCCI.java)
 - [x] [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/solution/)
