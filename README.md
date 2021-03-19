@@ -1,6 +1,12 @@
 
 
 ### 2021-03-18
+#### 哈希表
+- [x] [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-19/169.MajorityElement.java)
+
+
+### 2021-03-18
 #### 快速排序
 - [x] [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/solution/)
 * [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-18/912.SortanArray.java)
