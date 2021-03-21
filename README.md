@@ -1,7 +1,12 @@
+### 2021-03-21
+#### 二叉树
+- [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-21/tree.java)
+
 
 
 ### 2021-03-20
-#### 哈希表
+#### 二叉树
 - [x] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 * [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-20/tree.java)
 
