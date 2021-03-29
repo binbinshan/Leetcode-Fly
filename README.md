@@ -1,3 +1,18 @@
+
+### 2021-03-29
+#### 链表
+- [x] [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-29/92.java)
+
+- [x] [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-29/6.java)
+
+- [x] [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-29/22.java)
+
+ 
+
+ 
 ### 2021-03-28
 #### 链表
 - [x] [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
