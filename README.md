@@ -1,3 +1,12 @@
+### 2021-03-31
+#### 二分查找
+- [x] [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-31/374.java)
+
+- [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-03-30/82.java)
+
+
 ### 2021-03-30
 #### 链表
 - [x] [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
