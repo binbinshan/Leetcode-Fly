@@ -1,3 +1,23 @@
+
+
+### 2021-04-01
+#### 数组
+- [x] [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-01/35.java)
+
+#### 二分查找
+- [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-01/34.java)
+
+- [x] [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-01/153.java)
+
+- [x] [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-01/154.java)
+
+
+
+
 ### 2021-03-31
 #### 二分查找
 - [x] [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
