@@ -1,4 +1,13 @@
 
+
+### 2021-04-04
+#### 二分查找
+- [x] [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-04/81.java)
+- [x] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-04/278.java)
+
+
 ### 2021-04-03
 #### 二分查找
 - [x] [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
