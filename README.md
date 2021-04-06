@@ -1,3 +1,10 @@
+
+
+### 2021-04-06
+#### 二分查找
+- [x] [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-06/4.java)
+
 ### 2021-04-05
 #### 二分查找
 - [x] [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)
