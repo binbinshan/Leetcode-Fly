@@ -1,5 +1,10 @@
 
 
+### 2021-04-07
+#### 二分查找
+- [x] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-07/69.java)
+
 ### 2021-04-06
 #### 二分查找
 - [x] [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
