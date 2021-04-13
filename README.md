@@ -1,6 +1,14 @@
 
 
 ### 2021-04-07
+#### 哈希表+双向链表
+- [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+* [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-13/69.java)
+
+
+
+
+### 2021-04-07
 #### 二分查找
 - [x] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 * [source code](https://github.com/binbinshan/Leetcode-Fly/blob/master/2021-04-07/69.java)
